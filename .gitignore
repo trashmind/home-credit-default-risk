@@ -1,0 +1,7 @@
+# Abaikan semua file CSV agar upload tidak gagal
+*.csv
+*.zip
+data/
+
+# Abaikan file cache Jupyter
+.ipynb_checkpoints
