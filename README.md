@@ -51,6 +51,7 @@ The notebook generates 4 key business visualizations automatically:
 ├── .gitignore                        # Git configuration
 ├── requirements.txt                  # Dependencies
 └── README.md                         # Project documentation
+```
 
 
 ## 💻 How to Run
